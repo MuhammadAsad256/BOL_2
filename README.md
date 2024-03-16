@@ -1,3 +1,6 @@
+## Youtube Video Link
+https://www.youtube.com/watch?v=1cePcgcmUQk
+
 # BOL-2 Translator App
 
 This Python application allows users to translate text into various languages and convert it into speech. It utilizes the tkinter library for the graphical user interface, Google Translate API for text translation, gTTS (Google Text-to-Speech) for converting text to speech, and playsound for playing audio files. 
